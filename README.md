@@ -1,0 +1,2 @@
+# SMUTest
+Required Test
