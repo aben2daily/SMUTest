@@ -8,7 +8,7 @@ public class LinearEquation {
 	public static void main(String[] args) {
         System.out.print("\033[H\033[2J");  
         System.out.flush();
-        System.out.println("\t\t\t Program to Solves Linear Equation {a^(2x) - a^x + 1}");
+        System.out.println("\t\t\t Program to Calculates Linear Equation {a^(2x) - a^x + 1}");
         System.out.print("Enter the value of a: ");
         
         Scanner coA = new Scanner(System.in);
